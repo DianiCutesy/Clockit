@@ -1,0 +1,6 @@
+{
+  "name": "ClockIt",
+  "description": "A sleek, modern to-do list app with persistent storage, task filtering, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
